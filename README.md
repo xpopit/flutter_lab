@@ -1,25 +1,42 @@
 ## Welcome to flutter_lab
 
-flutter
-[widgets-intro](https://flutter.dev/docs/development/ui/widgets-intro)
-[layout](https://flutter.dev/docs/development/ui/layout)
-<span style="color:blue">
-![ผัง](https://flutter.dev/assets/ui/layout/sample-flutter-layout-46c76f6ab08f94fa4204469dbcf6548a968052af102ae5a1ae3c78bc24e0d915.png)
-</span>
+- widgets or UI
 
-```flow
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
+  - [widgets-intro](https://flutter.dev/docs/development/ui/widgets-intro)
+  - [layout](https://flutter.dev/docs/development/ui/layout)
+  - ![ผัง](https://flutter.dev/assets/ui/layout/sample-flutter-layout-46c76f6ab08f94fa4204469dbcf6548a968052af102ae5a1ae3c78bc24e0d915.png)
 
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
-```
+- DevCode(Dart)
+
+  - [Dart_dev](https://dart.dev/tutorials)
+  - [Dart_tutorialspoint](https://www.tutorialspoint.com/dart_programming/index.htm)
+  - [Dart_w3](https://www.w3adda.com/dart-tutorial)
+  - [Dart_fluter](https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro)
+
+  - ![img](https://flutter.dev/assets/development/data-and-backend/state-mgmt/state-management-explainer-5495afe6c3d6162f145107fe45794583bc4f2b55be377c76a92ab210be74c033.gif)
+
+- Moblie,web,linux app(flutter mobile platforms permission)
+
+  - [request-permissions-in-flutter](https://medium.com/flutter-community/request-permissions-in-flutter-as-a-consumable-service-e6cd243f882f)
+  - [flutter-wait-user-enable-gps-permission-location](https://dev.to/ahmedcharef/flutter-wait-user-enable-gps-permission-location-4po2)
+
+- Backend(REST,restful_api,localdatabase_sqlite,cloud_api)
+  - [REST VS restful_api](https://medium.com/@iamgique/restful-api-กับ-rest-api-ต่างกันนะรู้ยัง-2c70c42990e3)
+  - [sqlite](https://flutter.dev/docs/cookbook/persistence/sqlite)
+  - [JSON Test](https://jsonplaceholder.typicode.com)
+  - [firebase](https://medium.com/firebasethailand/flutter-x-firebase-cloud-firestore-29275799f6e9)
+
+tools
+
+- [dartpad](https://dartpad.dev/flutter)
+- [flutter_install](https://www.somkiat.cc/flutter-part-1-installation/)
+- [vscode1](https://medium.com/@sahakornb/flutter-1-install-updated-nov-2019-windows-with-vscode-47db0fffe919)
+- [vscode2](https://www.androidthai.in.th/android-flutter/231-create-flutter-project-on-vs-code.html)
+- [Android Studio](https://nextflow.in.th/2018/google-flutter-create-new-project-with-android-studio-thai/)
+  ![dartpad](https://miro.medium.com/max/1600/0*O2FY0bB-BCao1kH2)
+
+อื่นๆ
+[dart-instance-variable-vs-reference-variable](https://toastguyz.com/dart/dart-instance-variable-vs-reference-variable)
+[cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
+[RW-Dart-Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf)
+[flutter_intception_thai](https://blog.intception.me/dev/flutter/)
