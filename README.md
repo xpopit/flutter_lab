@@ -1,9 +1,8 @@
 ## Welcome to flutter_lab
 
 flutter
-<https://flutter.dev/docs/development/ui/widgets-intro>
-
-<https://flutter.dev/docs/development/ui/layout>
+[widgets-intro](https://flutter.dev/docs/development/ui/widgets-intro)
+[layout](https://flutter.dev/docs/development/ui/layout)
 ![ผัง](https://flutter.dev/assets/ui/layout/sample-flutter-layout-46c76f6ab08f94fa4204469dbcf6548a968052af102ae5a1ae3c78bc24e0d915.png)
 
 ```flow
