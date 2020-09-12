@@ -42,3 +42,4 @@ tools
 - [cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 - [RW-Dart-Cheatsheet](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf)
 - [flutter_intception_thai](https://blog.intception.me/dev/flutter/)
+- [firebase-and-esp8266](https://akexorcist.dev/firebase-and-esp8266-with-arduino/)
